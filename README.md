@@ -1,1 +1,1 @@
-# L6420_motor
+# L6470_motor
